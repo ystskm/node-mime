@@ -1005,7 +1005,7 @@ application/x-font-woff				woff
 application/x-futuresplash			spl
 application/x-gnumeric				gnumeric
 application/x-gtar				gtar
-# application/x-gzip
+application/x-gzip				gzip
 application/x-hdf				hdf
 application/x-java-jnlp-file			jnlp
 application/x-latex				latex
