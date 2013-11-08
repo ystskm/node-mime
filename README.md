@@ -4,7 +4,7 @@ Support for mapping between file extensions and MIME types.  This module uses th
 
 ## Install
 
-Install with [npm](http://github.com/isaacs/npm):
+Install with [npm](http://npmjs.org/):
 
     npm install mime
 
